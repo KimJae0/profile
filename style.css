@@ -1,0 +1,85 @@
+.Kangaroo {
+    color: blanchedalmond; 
+    font-weight: 450;
+    text-decoration: underline;
+    font-style: oblique;
+    font-size: 30px;
+  }
+  
+  p {
+    margin-bottom: 40px;
+  }
+  
+  body {
+    background: #eeeeee;
+  }
+  
+  #background {
+    width: 720px;
+    background: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  body {
+    font-family: "Times New Roman";
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  
+  h2 {
+    border-left: 5px dotted red;
+    padding-left: 10px;
+  }
+
+  h3 {
+    border-left: 5px dotted orange;
+    padding-left: 15px;
+  }
+
+  h4 {
+    border-left: 5px dotted yellow;
+    padding-left: 20px;
+  }
+
+  h5 {
+    text-align: center;
+    border-left: 5px dotted green;
+  }
+
+  h6 {
+    text-align: center;
+    border-left: 5px dotted blue;
+  }
+
+
+  a {
+    color: steelblue;
+  }
+  
+  a:visited {
+    color: darkblue;
+  }
+
+
+  #Kangaroo{ background-color: rgb(204, 139, 0); 
+  }
+
+
+  #JaeYoung-Kim{ background-color: rgb(240, 206, 133); 
+  }
+
+
+  .d-flex{ 
+      margin-top: 5px;
+      padding : 5px;
+      border: 30px solid  #e3f2fd;
+  }
+ 
